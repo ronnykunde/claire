@@ -8,6 +8,7 @@ title: Creating a New Theme
 weight: 10
 ---
 
+Test test
 
 ## Introduction
 
